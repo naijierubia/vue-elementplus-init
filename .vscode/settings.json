@@ -1,0 +1,7 @@
+{
+  // ESlint插件 + Vscode配置 实现自动格式化修复
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "editor.formatOnSave": false
+}
