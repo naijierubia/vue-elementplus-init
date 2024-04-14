@@ -1,4 +1,4 @@
-# birthday_calendar
+# vue3-elementplus-init
 
 This template should help get you started developing with Vue 3 in Vite.
 
